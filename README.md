@@ -87,7 +87,7 @@ Server:
 Cấu trúc dữ liệu
 ================
 
-![https://github.com/liem18112000/socket/blob/master/Data%20structure%20%2B%20DB.jpeg](media/f704d3b8ce4908269751ba6f403eeda2.jpg)
+![https://raw.githubusercontent.com/liem18112000/socket/master/Data%20structure%20%2B%20DB.jpeg](media/f704d3b8ce4908269751ba6f403eeda2.jpg)
 
 Chương trình bao gồm 2 class:
 
